@@ -1,0 +1,16 @@
+id: IE6DD5534
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:23:11.537695
+last_modified: 2023-02-08 16:23:11.537816
+source_metadata:
+  title: Mahāvyutpatti with sGra sbyor bam po gñis pa
+  language: bo
+bases:
+  4A3F:
+    base_file: 4A3F.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
